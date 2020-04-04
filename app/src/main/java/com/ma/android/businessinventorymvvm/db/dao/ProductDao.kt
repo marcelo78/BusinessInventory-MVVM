@@ -34,6 +34,7 @@ class ProductDao {
     fun getQuotes() = products as LiveData<List<ProductEntity>>
 }
 
+
 //@Dao
 //interface ProductDao {
 
